@@ -22,6 +22,7 @@
     justify-content: center;
     font-size: calc(10px + 2vmin);
     color: white;
+    background-image: url('/src/images/tic-tac-toe.jpeg');
 }
 
 .App-link {
